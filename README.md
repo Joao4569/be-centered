@@ -19,8 +19,13 @@ The site will be useful by providing users with an introduction to various possi
 ## Credits
 
 - Majority of code structure and design learnt from Code Institute and especially from the "Love Running" walkthrough project.
-- The font pairing was taken from [Font Pair](https://www.fontpair.co/all)
-- Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html)
+- The font pairing chosen was taken from [Font Pair](https://www.fontpair.co/all).
+- Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
+- Hero image sizing suggestions sourced on [Hubspot](https://blog.hubspot.com/marketing/hero-image)
+- information for optimizing images for web design found on [jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/).
+
 ### Content
+
+- Hero image sourced on [Pexels](https://www.pexels.com/photo/woman-practicing-yoga-6787205/).
 
 ### Media
