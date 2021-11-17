@@ -8,6 +8,8 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Testing
 
+- Found bug with navigation menu order , it is displaying in reverse order. - Resolved
+
 ### Validator Testing
 
 ### Unfixed Bugs
@@ -18,7 +20,7 @@ The site will be useful by providing users with an introduction to various possi
 
 - Majority of code structure and design learnt from Code Institute and especially from the "Love Running" walkthrough project.
 - The font pairing was taken from [Font Pair](https://www.fontpair.co/all)
-
+- Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html)
 ### Content
 
 ### Media
