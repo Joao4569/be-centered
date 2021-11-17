@@ -16,6 +16,8 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Credits
 
+- Majority of code structure and design learnt from Code Institute and especially from the "Love Running" walkthrough project.
+
 ### Content
 
 ### Media
