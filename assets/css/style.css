@@ -9,8 +9,18 @@
 body {
     font-family: "poppins", sans-serif;
     font-weight: 800;
+    color: #525c55;
 }
+
+/* headings and logo */
 
 h1 {
     font-family: "open sans condensed", sans-serif;
+    letter-spacing: 2px;
+    color: #000000;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
