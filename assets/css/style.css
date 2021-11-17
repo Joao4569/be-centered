@@ -55,3 +55,11 @@ h1 {
 .active {
     border-bottom: 2px solid #525c55;
 }
+
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image-1601x901px.jpg") no-repeat center center;
+}
