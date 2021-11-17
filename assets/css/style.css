@@ -12,7 +12,7 @@ body {
     color: #525c55;
 }
 
-/* headings and logo */
+/* logo */
 
 h1 {
     font-family: "open sans condensed", sans-serif;
@@ -23,4 +23,34 @@ h1 {
 #logo {
     float: left;
     font-size: 300%;
+}
+
+/* navigation menu */
+
+#menu {
+    font-size: 90%;
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 80px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #525c55;
+}
+
+.active {
+    border-bottom: 2px solid #525c55;
 }
