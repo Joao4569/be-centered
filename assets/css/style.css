@@ -28,6 +28,7 @@ h1 {
 /* navigation menu */
 
 #menu {
+    float: right;
     font-size: 90%;
     letter-spacing: 2px;
 }
@@ -37,7 +38,7 @@ h1 {
 }
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
     margin-right: 20px;
 }
