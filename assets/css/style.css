@@ -130,3 +130,22 @@ h1 {
     text-align: center;
     margin: auto 25%;
 }
+
+/* method introductions */
+
+#method-intro {
+    height: 1200px;
+    column-count: 2;
+}
+
+.method-intro-image {
+    background-color: blue;
+    height: 50%;
+    width: 100%;
+}
+
+.method-intro-text {
+    background-color: red;
+    height: 50%;
+    width: 100%;
+}
