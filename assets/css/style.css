@@ -135,17 +135,28 @@ h1 {
 
 #method-intro {
     height: 1200px;
-    column-count: 2;
+}
+
+#be-balanced, #be-mindful {
+    width: 100%;
 }
 
 .method-intro-image {
     background-color: blue;
-    height: 50%;
-    width: 100%;
+    width: 50%;
+    height: 600px;
 }
 
 .method-intro-text {
     background-color: red;
-    height: 50%;
-    width: 100%;
+    width: 50%;
+    height: 600px;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
 }
