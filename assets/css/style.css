@@ -14,7 +14,7 @@ body {
 
 /* logo */
 
-h1 {
+h1, h2, h3 {
     font-family: "open sans condensed", sans-serif;
     letter-spacing: 2px;
     
