@@ -27,7 +27,7 @@ The site will be useful by providing users with an introduction to various possi
 - Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
 - Hero image sizing suggestions sourced on [Hubspot](https://blog.hubspot.com/marketing/hero-image)
 - Information for optimizing images for web design found on [jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/).
-- Hero image resized using [TinyPNG](https://tinypng.com/).
+- All images resized using [TinyPNG](https://tinypng.com/).
 - Code for Hero image zoom animation taken directly from "Love Running" walkthrough project, [Hero Image Animation](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/?child=first).
 - Code for Hero image overlay text was taken from "Love Running" walkthrough project and modified for this application, [Hero Image Cover Text](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/?child=first)
 - Hero image sourced on [Pexels](https://www.pexels.com/photo/woman-practicing-yoga-6787205/).
