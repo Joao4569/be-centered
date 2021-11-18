@@ -134,23 +134,26 @@ h1, h2, h3 {
 /* method introductions */
 
 #method-intro {
-    height: 1200px;
+    height: 852px;
+    width: 80%;
+    margin: 0 auto;
 }
 
 #be-balanced, #be-mindful {
     width: 100%;
+    display: inline-block;
 }
 
 .method-intro-image {
-    background-color: blue;
     width: 50%;
-    height: 600px;
+    height: 100%;
+    text-align: center;
 }
 
 .method-intro-text {
     background-color: red;
     width: 50%;
-    height: 600px;
+    height: 100%;
 }
 
 .float-right {
