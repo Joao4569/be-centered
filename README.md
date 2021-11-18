@@ -10,6 +10,7 @@ The site will be useful by providing users with an introduction to various possi
 
 - Found bug with navigation menu order, it is displaying in reverse order - Resolved by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
 - Found that the Hero image did not cover entire screen width - Resolved by using original image size.
+- Found that the tile display for the method introductions did not display as planned - Resolved by adding additional div elements and floating their children as needed.
 
 ### Validator Testing
 
