@@ -120,13 +120,13 @@ h1, h2, h3 {
 
 /* introduction text */
 
-#intro-text h1 {
+.home-text h1 {
     text-align: center;
     font-size: 300%;
     margin: 40px auto 20px;
 }
 
-#intro-text p {
+.home-text p {
     text-align: center;
     margin: auto 25% 40px;
 }
