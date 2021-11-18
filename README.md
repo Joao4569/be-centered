@@ -35,5 +35,6 @@ The site will be useful by providing users with an introduction to various possi
 - Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered).
 - Introduction text sourced from [bodymindlife.com](https://www.bodymindlife.com/about) on their "Our Purpose" section.
 - Method introduction text sourced from [bodymind-training.ch](https://www.bodymind-training.ch/techniken/mind-balancing/)
+- Method for creating group sessions timetable on home page take from "Love Running" walkthrough project, [Meetup Times Foreground](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/c428cfb8fd5e4852bbba1f94e914b3b4/)
 
 ### Media
