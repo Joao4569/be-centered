@@ -33,5 +33,6 @@ The site will be useful by providing users with an introduction to various possi
 - Hero image sourced on [Pexels](https://www.pexels.com/photo/woman-practicing-yoga-6787205/).
 - Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered).
 - Introduction text sourced from [bodymindlife.com](https://www.bodymindlife.com/about) on their "Our Purpose" section.
+- Method introduction text sourced from [bodymind-training.ch](https://www.bodymind-training.ch/techniken/mind-balancing/)
 
 ### Media
