@@ -30,7 +30,7 @@ The site will be useful by providing users with an introduction to various possi
 - Code for Hero image zoom animation taken directly from "Love Running" walkthrough project, [Hero Image Animation](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/?child=first).
 - Code for Hero image overlay text was taken from "Love Running" walkthrough project and modified for this application, [Hero Image Cover Text](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/?child=first)
 - Hero image sourced on [Pexels](https://www.pexels.com/photo/woman-practicing-yoga-6787205/).
-- Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered)
+- Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered).
 - Introduction text sourced from [bodymindlife.com](https://www.bodymindlife.com/about) on their "Our Purpose" section.
 
 ### Media
