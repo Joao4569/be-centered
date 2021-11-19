@@ -29,7 +29,6 @@ h1, h2, h3 {
 
 #menu {
     float: right;
-    font-size: 100%;
     letter-spacing: 2px;
 }
 
@@ -143,9 +142,27 @@ a:hover {
 }
 
 .tile {
-    background-color: red;
     height: 100%;
     width: 50%;
+}
+
+.tile h2 {
+    text-align: center;
+    padding: 5% 0;
+    font-size: 220%;
+}
+
+.tile h3, p {
+    padding: 1% 2%;
+}
+
+.tile h3 {
+    text-decoration: underline;
+    font-size: 150%;
+}
+
+.tile p {
+    font-weight: 800;
 }
 
 .float-right {
