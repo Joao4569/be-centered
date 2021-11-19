@@ -131,22 +131,22 @@ h1, h2, h3 {
     margin: auto 25% 40px;
 }
 
-/* method introductions */
+/* tile display */
 
 #tile-display {
-    height: 852px; /* height? */
+    height: 1350px;
     width: 80%;
     margin: 0 auto;
 }
 
 .tile-row {
-    height: 50%;
+    height: 33%;
     width: 100%;
     display: inline-block;
 }
 
 .tile-row-container {
-    /*background-color: red; */
+    background-color: red;
     height: 100%;
     width: 50%;
 }
