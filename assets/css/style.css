@@ -133,28 +133,22 @@ h1, h2, h3 {
 
 /* method introductions */
 
-#method-intro {
-    height: 852px;
+#tile-display {
+    height: 852px; /* height? */
     width: 80%;
     margin: 0 auto;
 }
 
-#be-balanced, #be-mindful {
-    width: 100%;
+.tile-row {
     height: 50%;
+    width: 100%;
     display: inline-block;
 }
 
-.method-intro-image {
-    width: 50%;
+.tile-row-container {
+    /*background-color: red; */
     height: 100%;
-    text-align: center;
-}
-
-.method-intro-text {
-    background-color: red;
     width: 50%;
-    height: 100%;
 }
 
 .float-right {
