@@ -139,6 +139,7 @@ a:hover {
     width: 80%;
     margin: 0 auto;
     display: block;
+    margin-bottom: 300px;
 }
 
 .tile-row {
@@ -154,7 +155,7 @@ a:hover {
 
 .tile h2 {
     text-align: center;
-    padding: 5% 0;
+    padding: 2.5% 0 5%;
     font-size: 220%;
 }
 
