@@ -22,21 +22,20 @@ h1, h2, h3 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 400%;
     margin-left: 30px;
-    color: #000000;
 }
 
 /* navigation menu */
 
 #menu {
     float: right;
-    font-size: 90%;
+    font-size: 100%;
     letter-spacing: 2px;
 }
 
 #menu, #logo {
-    line-height: 80px;
+    line-height: 100px;
 }
 
 #menu li {
@@ -45,12 +44,12 @@ h1, h2, h3 {
     margin-right: 20px;
 }
 
-#menu a {
+a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+a:hover {
     border-bottom: 2px solid #525c55;
 }
 
@@ -118,17 +117,19 @@ h1, h2, h3 {
     padding-left: 10px;
 }
 
-/* introduction text */
+/* introduction heading and text */
 
 .home-text h1 {
     text-align: center;
-    font-size: 300%;
+    font-size: 400%;
     margin: 80px auto;
 }
 
 .home-text p {
     text-align: center;
     margin: 80px 10%;
+    font-size: 120%;
+    font-weight: 1000;
 }
 
 /* tile display */
