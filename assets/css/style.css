@@ -172,6 +172,26 @@ a:hover {
     font-weight: 800;
 }
 
+.link {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.link > a {
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #000000;
+    border: 5px solid #000000;
+    padding: 3px 6px;
+    font-weight: bolder;
+}
+
+.link a:hover {
+    border-bottom: none;
+    border-color: #fff;
+
+}
+
 .float-right {
     float: right;
 }
