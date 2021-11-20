@@ -206,7 +206,7 @@ img {
     object-fit: conatin;
 }
 
-/* group sessions*/
+/* group sessions */
 
 #group-sessions div {
     width: 20%;
@@ -240,4 +240,35 @@ footer i {
 
 footer a:hover {
     border-bottom: none;
+}
+
+/* be-balance styling */
+
+#technique {
+    clear: both;
+    height: 1000px;
+}
+
+#technique > div {
+    display: inline-block;
+}
+
+#technique > h1 {
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
+
+.technique-description {
+    width: 50%;
+    height: 100%;
+}
+
+.technique-image {
+    width: 50%;
+}
+
+.technique-iframe {
+    width: 50%;
 }
