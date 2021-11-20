@@ -249,10 +249,6 @@ footer a:hover {
     height: 1000px;
 }
 
-#technique > div {
-    display: inline-block;
-}
-
 #technique > h1 {
     text-align: center;
     font-size: 400%;
@@ -260,15 +256,26 @@ footer a:hover {
     padding-top: 50px;
 }
 
+.technique-description, .technique-media {
+    display: inline-block;
+}
+
 .technique-description {
     width: 50%;
+}
+
+.technique-media { /* fix width */
+    width: 48%;
+}
+
+
+
+/*.technique-image {
+    width: 50%;
+    height: 50%;
+}
+
+.technique-video {
+    width: 50%;
     height: 100%;
-}
-
-.technique-image {
-    width: 50%;
-}
-
-.technique-iframe {
-    width: 50%;
-}
+}*/
