@@ -204,7 +204,7 @@ p, li {             /* AnthonY - Good practice or not?? */
 img {
     width: 100%;
     height: 100%;
-    object-fit: conatin;
+    object-fit: contain;
 }
 
 /* group sessions */
@@ -247,8 +247,8 @@ footer a:hover {
 
 #technique {
     clear: both;
-    width: 80%;
-    height: 1000px;
+    width: 90%;
+    height: 1100px;
     margin: 0 auto;
 }
 
