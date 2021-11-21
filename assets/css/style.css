@@ -159,17 +159,15 @@ a:hover {
     font-size: 220%;
 }
 
-.tile h3, p {
-    padding: 1% 2%;
-}
-
 .tile h3 {
+    padding: 1% 2%;
     text-decoration: underline;
     font-size: 150%;
 }
 
-.tile p {
+p {
     font-weight: 800;
+    padding: 1% 2%;
 }
 
 .link {
