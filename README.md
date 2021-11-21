@@ -29,7 +29,7 @@ The site will be useful by providing users with an introduction to various possi
 - Code for Hero image overlay text was taken from "Love Running" walkthrough project and modified for this application.
 - Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered).
 - Introduction text sourced from [bodymindlife.com](https://www.bodymindlife.com/about) on their "Our Purpose" section.
-- Tile display text sourced from [bodymind-training.ch](https://www.bodymind-training.ch/techniken/mind-balancing/)
+- Tile display and technique pages text content sourced from [bodymind-training.ch](https://www.bodymind-training.ch/techniken/mind-balancing/)
 - Method for coding group sessions timetable on home page taken from "Love Running" walkthrough project.
 - Social media icons sourced from [Font Awesome](https://fontawesome.com).
 - Code for arranging social media icons in footer taken from "Love Running" walkthrough project.
@@ -41,4 +41,4 @@ The site will be useful by providing users with an introduction to various possi
 - Information for optimizing images for web design found on [jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/).
 - All images resized using [TinyPNG](https://tinypng.com/).
 - Code for Hero image zoom animation taken directly from "Love Running" walkthrough project.
-- Method for embedding Youtube video learnt on [GeeksforGeeks](https://www.geeksforgeeks.org/html-adding-youtube-videos/).
+- Method for embedding Youtube video learnt on [GeeksforGeeks](https://www.geeksforgeeks.org/html-adding-youtube-videos/)
