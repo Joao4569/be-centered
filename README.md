@@ -41,3 +41,4 @@ The site will be useful by providing users with an introduction to various possi
 - Information for optimizing images for web design found on [jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/).
 - All images resized using [TinyPNG](https://tinypng.com/).
 - Code for Hero image zoom animation taken directly from "Love Running" walkthrough project.
+- Method for embedding Youtube video learnt on [GeeksforGeeks](https://www.geeksforgeeks.org/html-adding-youtube-videos/).
