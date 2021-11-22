@@ -223,6 +223,7 @@ img {
 
 footer {
     height: 150px;
+    clear: both;
 }
 
 footer > ul {
@@ -248,8 +249,9 @@ footer a:hover {
 #technique {
     clear: both;
     width: 90%;
-    height: 1100px;
+    height: 1400px;
     margin: 0 auto;
+    border-top: 2px solid #000000;
 }
 
 #technique > h1 {
@@ -280,10 +282,10 @@ footer a:hover {
     
 }
 
-ul {
+.technique-description ul {
     padding: 0 5%;
 }
 
-li {
+.technique-description li {
     padding-bottom: 2%;
 }
