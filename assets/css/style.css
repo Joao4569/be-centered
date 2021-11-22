@@ -273,8 +273,8 @@ footer a:hover {
 }
 
 .technique-image, .technique-video {
-    width: 100%;
-    height: 50%;
+    width: 90%;
+    height: 40%;
     padding: 5%;
     box-sizing: border-box;
 }
