@@ -254,16 +254,17 @@ footer a:hover {
 
 .technique-description, .technique-media {
     width: 50%;
-    height: 90%;
+    height: 80%;
     box-sizing: border-box;
 }
 
-.technique-description h2,p {
+.technique-description h3,p {
     padding: 0 4% 2% 1%;
 }
 
-.technique-description h2 {
+.technique-description h3 {
     text-decoration: underline;
+    font-size: 220%;
 }
 
 .technique-image, .technique-video {
