@@ -8,10 +8,10 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Testing
 
-- Found bug with navigation menu order, it is displaying in reverse order - Resolved by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
+- Found bug with navigation menu order, it is displaying in reverse order - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
 - Made use of coloured backgrounds to view container layout and styling changes.
-- Found that the Hero image did not cover entire screen width - Resolved by using original image size.
-- Found that the tile display for the method introductions did not display as planned - Resolved by adding additional div elements and floating their children as needed.
+- Found that the Hero image did not cover entire screen width - **Resolved** by using original image size.
+- Found that the tile display for the method introductions did not display as planned - **Resolved** by adding additional div elements and floating their children as needed.
 - Found solution for how to make an image fit it's parent element while retaining it's aspect ratio on [w3schools](https://www.w3schools.com/css/css3_object-fit.asp).
 - Made use of background colors for testing of container structure, function and layout.
 - Tested all internal links - All are functioning as intended.
@@ -19,6 +19,9 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Validator Testing
 
+- First validator test for homepage results:
+ - 3 Bad Value errors for having spaces in image names - **Resolved** by re-naming images accordingly.
+ - 1 Warning for using an H1 tag incorrectly - **Resolved** by replacing it with an unordered list.
 ### Unfixed Bugs
 
 ## Deployment
