@@ -244,7 +244,7 @@ footer a:hover {
     border-bottom: none;
 }
 
-/* technique pages styling */
+/* technique pages */
 
 #technique {
     clear: both;
@@ -288,4 +288,10 @@ footer a:hover {
 
 .technique-description li {
     padding-bottom: 2%;
+}
+
+/* sign up page */
+
+#sign-up-form {
+    clear: both;
 }
