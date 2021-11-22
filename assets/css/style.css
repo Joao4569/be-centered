@@ -95,7 +95,7 @@ a:hover {
     width: 400px;
     height: 120px;
 
-    background-color: rgba(118, 196, 127, .7);
+    background-color: /*rgba(118, 196, 127, .7)*/ rgba(0, 0, 0, .7);
 
     bottom: 30px;
     right: 100px;
