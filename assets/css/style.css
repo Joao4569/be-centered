@@ -255,13 +255,14 @@ footer a:hover {
 #technique > h1 {
     text-align: center;
     font-size: 400%;
-    margin-bottom: 50px;
-    padding-top: 50px;
+    margin-bottom: 5%;
+    padding-top: 5%;
 }
 
 .technique-description, .technique-media {
     width: 50%;
-    height: 100%;
+    height: 90%;
+    box-sizing: border-box;
 }
 
 .technique-description h2,p {
@@ -275,8 +276,8 @@ footer a:hover {
 .technique-image, .technique-video {
     width: 90%;
     height: 40%;
-    padding: 5%;
-    box-sizing: border-box;
+    padding: 5% 2.5% 2.5%;
+    
 }
 
 ul {
