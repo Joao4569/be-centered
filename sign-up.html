@@ -34,38 +34,38 @@
     </header>
     <section id="sign-up-form">
         <h1>Sign up for our Monthly updates</h1>
-        <div>
+        <div id="sign-up-registration">
             <fieldset>
-                <legend>Register</legend>
-                <div>
-                    <label for="name-field">Name</label>
-                    <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                <legend> Register </legend>
+                <div class="input-field">
+                    <label for="name-field">Name:</label><br>
+                    <input id="name-field" type="text" name="full_name" placeholder=" Your Name" required>
                 </div>
-                <div>
-                    <label for="email-field">Email</label>
-                    <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                <div class="input-field last-field">
+                    <label for="email-field">Email:</label><br>
+                    <input id="email-field" type="email" name="email" placeholder=" Your Email" required>
                 </div>
             </fieldset>
             <fieldset>
-                <legend>Interested in:</legend>
-                <div>
+                <legend> Interests </legend>
+                <div class="input-field">
                     <h4>Balance</h4>
                     <input type="checkbox" id="lujong-checkbox" name="lujong">
 				    <label for="lujong-checkbox">LuJong</label>
-                    <input type="checkbox" id="tsalung-checkbox" name="tsalung">
+                    <input type="checkbox" id="tsalung-checkbox" class="right-side" name="tsalung">
 				    <label for="tsalung-checkbox">TsaLung</label>
                 </div>
-                <div>
+                <div class="input-field">
                     <h4>Mindfulness</h4>
                     <input type="checkbox" id="meditation-checkbox" name="lujong">
 				    <label for="meditation-checkbox">Meditation</label>
-                    <input type="checkbox" id="mind-balancing-checkbox" name="mind-balancing">
+                    <input type="checkbox" id="mind-balancing-checkbox" class="right-side" name="mind-balancing">
 				    <label for="mind-balancing-checkbox">Mind Balancing</label>
                 </div>
-                <div>
+                <div class="input-field last-field">
                     <h4>Community</h4>
                     <input type="checkbox" id="community-checkbox" name="community">
-				    <label for="community-checkbox">Community</label>
+				    <label for="community-checkbox">Weekly Group sessions</label>
                 </div>
             </fieldset>
         </div>
