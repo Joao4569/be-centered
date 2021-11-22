@@ -119,10 +119,16 @@ a:hover {
     margin-bottom: 300px;
 }
 
-.intro-text h1 {
+.intro-internal-links li {
+    
+}
+
+.intro-heading {
     text-align: center;
     font-size: 400%;
     margin-bottom: 50px;
+    /*font-family: "open sans condensed", sans-serif;
+    letter-spacing: 2px;*/
 }
 
 .intro-text p {
@@ -250,13 +256,6 @@ footer a:hover {
     border-top: 2px solid #000000;
 }
 
-#technique > h1, #sign-up-form > h1 {
-    text-align: center;
-    font-size: 400%;
-    margin-bottom: 5%;
-    padding-top: 5%;
-}
-
 .technique-description, .technique-media {
     width: 50%;
     height: 90%;
@@ -298,6 +297,13 @@ footer a:hover {
 #sign-up-registration {
     width: 35%;
     margin: 0 auto;
+}
+
+#sign-up-form > h1 {
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 5%;
+    padding-top: 5%;
 }
 
 fieldset, input[type=text], input[type=email] {
