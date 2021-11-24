@@ -16,6 +16,12 @@ The site will be useful by providing users with an introduction to various possi
 - Tested all internal links - All are functioning as intended.
 - Tested all embedded videos - All are functioning as intended.
 - Found an issue with technique pages, technique description divs were overflowing content - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
+- Sourced most common media breakpoint widths on [www.freecodecamp.org](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/.)
+  - Mobile devices: 320px — 480px
+  - iPads, Tablets: 481px — 768px
+  - Small screens, laptops: 769px — 1024px
+  - Desktops, large screens: 1025px — 1200px
+  - Extra large screens, TV: 1201px and more
 
 ### Validator Testing
 
