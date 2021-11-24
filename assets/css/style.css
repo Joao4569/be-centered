@@ -413,4 +413,34 @@ input[type=submit] {
         height: 3000px;
         margin: 0;
     }
+
+    .technique-media {
+        clear: both;
+    }
+
+    .technique {
+        overflow: hidden;
+        height: 2170px;
+    }
+
+    .technique > h2 {
+        height: 100px;
+    }
+
+    .technique-description, .technique-media {
+        width: 100%;
+    }
+
+    .technique-description {
+        height: 1020px;
+        overflow: none;
+    }
+
+    .technique-media {
+        height: 1000px;
+    }
+
+    .technique-image, .technique-video {
+        padding: 25px 0 25px 0;
+    }
 }
