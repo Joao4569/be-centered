@@ -125,6 +125,10 @@ a:hover, .active {
     margin-bottom: 50px;
 }
 
+.intro-heading a {
+    padding: 2%;
+}
+
 .introduction p {
     text-align: center;
     margin: 50px 5% 0;
