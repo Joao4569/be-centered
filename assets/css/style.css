@@ -145,7 +145,7 @@ a:hover, .active {
 .tile-row {
     height: 33%;
     width: 100%;
-    display: inline-block;
+    /*display: inline-block; */
 }
 
 .tile {
@@ -193,6 +193,10 @@ img {
     width: 100%;
     height: 100%;
     object-fit: contain;
+}
+
+.tile-image > img {
+    object-fit: cover;
 }
 
 /* group sessions */
@@ -262,7 +266,7 @@ footer a:hover {
 }
 
 .technique-image, .technique-video {
-    width: 90%;
+    width: 100%;
     height: 42.5%;
     padding: 5% 2.5% 2.5% 5%;
     
@@ -340,4 +344,31 @@ input[type=submit] {
 	margin-top: 20px;
     font-family: "poppins", sans-serif;
     font-weight: 800;
+}
+
+/* media queries */
+
+
+/* for screen width less than 1200px */
+@media screen and (max-width: 1200px) {
+    #tile-display {
+        margin: 0 5%;
+        width: auto;
+    }
+
+    .technique-image, .technique-video {
+        padding: 2.5% 0 1.25% 2.5%;
+    }
+
+    .technique {
+        width: 95%;
+    }
+
+    img {
+        object-fit: cover;
+    }
+
+    input[type=text], input[type=email] {
+        width: 20em;
+    }
 }
