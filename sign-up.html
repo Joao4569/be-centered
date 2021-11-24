@@ -10,67 +10,85 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Sign Up</title>
 </head>
+
 <body>
+
     <header>
         <a href="index.html">
             <h1 id="logo">BeCentered</h1>
         </a>
+
         <nav>
             <ul id="menu">
                 <li>
                     <a href="index.html">Home</a> <!--aria labels for these links-->
                 </li>
+
                 <li>
                     <a href="be-balanced.html">BeBalanced</a>
                 </li>
+
                 <li>
                     <a href="be-mindfull.html">BeMindful</a>
                 </li>
+
                 <li>
                     <a href="sign-up.html" class="active">Sign Up</a>
                 </li>
             </ul>
         </nav>
     </header>
+
     <section id="sign-up-form">
         <h2>Sign up for our Monthly updates</h2>
         
         <form id="sign-up-registration" action="https://formdump.codeinstitute.net" method="POST">
             <fieldset>
                 <legend> Register </legend>
+
                 <div class="input-field">
                     <label for="name-field">Name:</label><br>
                     <input id="name-field" type="text" name="full_name" placeholder=" Your Name" required>
                 </div>
+
                 <div class="input-field last-field">
                     <label for="email-field">Email:</label><br>
                     <input id="email-field" type="email" name="email" placeholder=" Your Email" required>
                 </div>
             </fieldset>
+
             <fieldset>
                 <legend> Interests </legend>
+
                 <div class="input-field">
                     <h4>Balance</h4>
                     <input type="checkbox" id="lujong-checkbox" name="lujong">
                     <label for="lujong-checkbox">LuJong</label>
+
                     <input type="checkbox" id="tsalung-checkbox" class="right-side" name="tsalung">
                     <label for="tsalung-checkbox">TsaLung</label>
                 </div>
+
                 <div class="input-field">
                     <h4>Mindfulness</h4>
                     <input type="checkbox" id="meditation-checkbox" name="lujong">
                     <label for="meditation-checkbox">Meditation</label>
+
                      <input type="checkbox" id="mind-balancing-checkbox" class="right-side" name="mind-balancing">
                     <label for="mind-balancing-checkbox">Mind Balancing</label>
                 </div>
+
                 <div class="input-field last-field">
                     <h4>Community</h4>
                     <input type="checkbox" id="community-checkbox" name="community">
                     <label for="community-checkbox">Weekly Group sessions</label>
                 </div>
             </fieldset>
+
             <input type="submit" value="Sign Up">
+
         </form>
+
     </section>
    
     <footer>
@@ -79,14 +97,17 @@
                 <a href="https://facebook.com" target="_blank" rel="noopener"
                 aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
             </li>
+
             <li>
                 <a href="https://twitter.com" target="_blank" rel="noopener"
                 aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
             </li>
+
             <li>
                 <a href="https://instagram.com" target="_blank" rel="noopener"
                 aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram-square"></i></a>
             </li>
+
             <li>
                 <a href="https://youtube.com" target="_blank" rel="noopener"
                 aria-label="Visit our Youtube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
@@ -96,5 +117,6 @@
 
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/b1019a7b77.js" crossorigin="anonymous"></script>
+    
 </body>
 </html>
