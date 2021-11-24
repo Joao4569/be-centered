@@ -22,22 +22,23 @@ The site will be useful by providing users with an introduction to various possi
   - Small screens, laptops: 769px — 1024px
   - Desktops, large screens: 1025px — 1200px
   - Extra large screens, TV: 1201px and more
+- Used Google dev tools for previewing and testing new concepts for media query design as well as UX aspects.
 
 ### Validator Testing
 
-- First validator test for index.html results:
+- Initial validator test for index.html results:
   - 3 Bad Value errors for having spaces in image names - **Resolved** by re-naming images accordingly.
   - 1 Warning for using an H1 tag incorrectly - **Resolved** by replacing it with an unordered list.
 
-- First validator test for be-balanced.html results:
+- Initial validator test for be-balanced.html results:
   - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%" - **Resolved** by removing attributes and styling with CSS.
   - Found 2 warnings for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
 
-- First validator test for be-mindful.html results:
+- Initial validator test for be-mindful.html results:
   - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%" - **Resolved** by removing attributes and styling with CSS.
   - Found 2 warnings for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
 
-- First validator test for sign-up.html results:
+- Initial validator test for sign-up.html results:
   - Found 1 warning for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
 
 ### Unfixed Bugs
