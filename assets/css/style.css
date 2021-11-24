@@ -354,11 +354,14 @@ input[type=submit] {
 
 /* for screen width less than 1200px */
 @media screen and (max-width: 1200px) {
+
+    /* home page */
     #tile-display {
         margin: 0 5%;
         width: auto;
     }
 
+    /* technique pages */
     .technique-image, .technique-video {
         padding: 2.5% 0 1.25% 2.5%;
     }
@@ -371,6 +374,7 @@ input[type=submit] {
         object-fit: cover;
     }
 
+    /* sign up form */
     input[type=text], input[type=email] {
         width: 20em;
     }
@@ -378,6 +382,8 @@ input[type=submit] {
 
 /* for screen width less than 1025px */
 @media screen and (max-width: 1025px) {
+
+    /* home page */
     #group-sessions div {
         padding: 10px 0 0 1px;
     }
@@ -414,6 +420,7 @@ input[type=submit] {
         margin: 0;
     }
 
+    /* technique pages */
     .technique-description {
         margin: 0;
         height: 700px;
@@ -453,6 +460,7 @@ input[type=submit] {
         padding: 25px 0 10px 0;
     }
 
+    /* sign up page */
     #sign-up-form h2 {
         font-size: 300%;
     }
