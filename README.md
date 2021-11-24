@@ -15,6 +15,7 @@ The site will be useful by providing users with an introduction to various possi
 - Made use of background colors for testing of container structure, function and layout.
 - Tested all internal links - All are functioning as intended.
 - Tested all embedded videos - All are functioning as intended.
+- Found an issue with technique pages, technique description divs were overflowing content - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
 
 ### Validator Testing
 
