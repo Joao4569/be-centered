@@ -244,12 +244,16 @@ footer a:hover {
 
 .technique-description, .technique-media {
     width: 50%;
-    height: 80%;
-    box-sizing: border-box;
+    height: 83%;
 }
 
 .technique-description h3,p {
     padding: 0 4% 2% 1%;
+}
+
+.technique-description {
+    background-color: red;
+    overflow: auto;
 }
 
 .technique-description h3 {
@@ -259,8 +263,8 @@ footer a:hover {
 
 .technique-image, .technique-video {
     width: 90%;
-    height: 40%; /* adjust sizing 42.5% ??*/
-    padding: 5% 2.5% 2.5%;
+    height: 42.5%;
+    padding: 5% 2.5% 2.5% 5%;
     
 }
 
@@ -292,11 +296,12 @@ iframe {
     margin: 0 auto;
 }
 
-#sign-up-form h2, .technique > h2 {
+#sign-up-form h2, .technique > h2 {  /* ask anthony */
     text-align: center;
     font-size: 400%;
     margin-bottom: 5%;
     padding-top: 5%;
+    height: 7%;
 }
 
 fieldset, input[type=text], input[type=email] {
