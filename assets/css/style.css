@@ -255,7 +255,7 @@ footer a:hover {
 }
 
 .technique-description {
-    background-color: red;
+   /* background-color: red; */
     overflow: auto;
 }
 
@@ -433,7 +433,6 @@ input[type=submit] {
 
     .technique-description {
         height: 1020px;
-        overflow: none;
     }
 
     .technique-media {
@@ -442,5 +441,13 @@ input[type=submit] {
 
     .technique-image, .technique-video {
         padding: 25px 0 25px 0;
+    }
+
+    #sign-up-form h2 {
+        font-size: 300%;
+    }
+
+    #sign-up-registration {
+        width: 45%;
     }
 }
