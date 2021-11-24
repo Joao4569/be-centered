@@ -382,10 +382,6 @@ input[type=submit] {
         object-fit: contain;
     }
 
-    .technique-description {
-        margin: 0;
-    }
-
     #menu li {
         margin-right: 10px;
     }
@@ -414,33 +410,43 @@ input[type=submit] {
         margin: 0;
     }
 
-    .technique-media {
-        clear: both;
-    }
-
-    .technique {
-        overflow: hidden;
-        height: 2170px;
+    .technique-description {
+        margin: 0;
+        height: 700px;
     }
 
     .technique > h2 {
-        height: 100px;
+        padding-top: 50px;
+        margin-bottom: 50px;
     }
 
     .technique-description, .technique-media {
         width: 100%;
     }
 
-    .technique-description {
-        height: 1020px;
+    .technique-media {
+        clear: both;
+    }
+
+    .technique {
+        overflow: hidden;
+        height: 2100px;
+    }
+
+    .technique > h2 {
+        height: 100px;
     }
 
     .technique-media {
-        height: 1000px;
+        height: 1200px;
     }
 
-    .technique-image, .technique-video {
+    .technique-image {
         padding: 25px 0 25px 0;
+    }
+
+    .technique-video {
+        padding: 25px 0 10px 0;
     }
 
     #sign-up-form h2 {
