@@ -538,6 +538,19 @@ input[type=submit] {
     }
 }
 
+/* for screen width less than 680px */
+@media screen and (max-width: 680px) {
+
+    /* technique pages */
+    .technique {
+        height: 1700px;
+    }
+
+    .technique-media {
+        height: 800px;
+    }
+}
+
 /* for screen width less than 421px */
 @media screen and (max-width: 421px) {
 
