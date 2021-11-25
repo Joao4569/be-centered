@@ -374,6 +374,10 @@ input[type=submit] {
         width: 95%;
     }
 
+    .technique-media {
+        margin: 0;
+    }
+
     img {
         object-fit: cover;
     }
@@ -451,7 +455,6 @@ input[type=submit] {
 
     .technique-media {
         clear: both;
-        margin: 0 2.5%;
     }
 
     .technique {
@@ -512,6 +515,10 @@ input[type=submit] {
 
     .technique-description > p {
         padding-bottom: 3%;
+    }
+
+    .technique {
+        width: 80%;
     }
 }
 
