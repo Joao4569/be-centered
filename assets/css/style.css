@@ -371,6 +371,13 @@ input[type=submit] {
         width: auto;
     }
 
+    #group-sessions div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 15px 0 0;
+    }
+
     /* technique pages */
     .technique-image, .technique-video {
         padding: 2.5% 0 1.25% 2.5%;
@@ -508,13 +515,6 @@ input[type=submit] {
 
     #text-overlay {
         left: 0;
-    }
-
-    #group-sessions div {
-        width: 100%;
-        clear: both;
-        height: 150px;
-        padding: 15px 0 0;
     }
 
     /* technique pages */
