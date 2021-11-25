@@ -558,6 +558,10 @@ input[type=submit] {
     .technique-media {
         height: 800px;
     }
+
+    .technique > h2 {
+        height: 150px;
+    }
 }
 
 /* for screen width less than 421px */
@@ -625,6 +629,11 @@ input[type=submit] {
 
     .tile-image {
         height: 400px;
+    }
+
+    .technique > h2 {
+        height: 50px;
+        font-size: 200%;
     }
 
     footer li {
