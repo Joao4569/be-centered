@@ -551,6 +551,15 @@ input[type=submit] {
     }
 }
 
+/* for screen width less than 545px */
+@media screen and (max-width: 545px) {
+
+    /* sign up page */
+    #sign-up-form h2 {
+        font-size: 250%;
+    }
+}
+
 /* for screen width less than 421px */
 @media screen and (max-width: 421px) {
 
