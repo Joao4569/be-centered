@@ -58,6 +58,7 @@ The site will be useful by providing users with an introduction to various possi
 - Method for coding group sessions timetable on home page taken from "Love Running" walkthrough project.
 - Social media icons sourced from [Font Awesome](https://fontawesome.com).
 - Code for arranging social media icons in footer taken from "Love Running" walkthrough project.
+- Media queries for home page at a screen width less than 769px was taken from "Love Running" walkthrough project and modified accordingly.
 
 ### Media
 
