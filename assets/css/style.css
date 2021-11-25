@@ -263,7 +263,6 @@ footer a:hover {
 }
 
 .technique-description {
-   /* background-color: red; */
     overflow: auto;
 }
 
@@ -297,7 +296,7 @@ iframe {
 #sign-up-form {
     clear: both;
     width: 90%;
-    height: 900px;
+    height: 850px;
     margin: 0 auto;
     border-top: 2px solid #000000;
 }
@@ -317,12 +316,13 @@ iframe {
 
 fieldset, input[type=text], input[type=email] {
     border: 4px solid #000000;
+    text-align: center;
 }
 
 input[type=text], input[type=email] {
     height: 2em;
     width: 25em;
-    margin: 2%;
+    margin: 2% auto;
 }
 
 .input-field {
@@ -389,6 +389,10 @@ input[type=submit] {
 
     #sign-up-form {
         height: 800px;
+    }
+
+     #sign-up-form h2 {
+        font-size: 300%;
     }
 }
 
@@ -520,6 +524,11 @@ input[type=submit] {
     .technique {
         width: 80%;
     }
+
+     /* sign up page */
+     #sign-up-form h2 {
+        font-size: 200%;
+    }
 }
 
 /* sign up page specific media query for less than 748px */
@@ -548,15 +557,6 @@ input[type=submit] {
 
     .technique-media {
         height: 800px;
-    }
-}
-
-/* for screen width less than 545px */
-@media screen and (max-width: 545px) {
-
-    /* sign up page */
-    #sign-up-form h2 {
-        font-size: 250%;
     }
 }
 
@@ -596,6 +596,10 @@ input[type=submit] {
     .technique-description > p, .technique-description li {
         font-size: 95%;
     }
+
+    input[type=text], input[type=email] {
+        width: 15em;
+    }
 }
 
 /* for screen width less than 370px */
@@ -625,5 +629,9 @@ input[type=submit] {
 
     footer li {
         font-size: 80%;
+    }
+
+    input[type=text], input[type=email] {
+        width: 13em;
     }
 }
