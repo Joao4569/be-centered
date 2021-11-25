@@ -297,7 +297,7 @@ iframe {
 #sign-up-form {
     clear: both;
     width: 90%;
-    height: 1000px;
+    height: 900px;
     margin: 0 auto;
     border-top: 2px solid #000000;
 }
@@ -381,6 +381,10 @@ input[type=submit] {
     /* sign up form */
     input[type=text], input[type=email] {
         width: 20em;
+    }
+
+    #sign-up-form {
+        height: 800px;
     }
 }
 
@@ -495,5 +499,21 @@ input[type=submit] {
         clear: both;
         height: 150px;
         padding: 15px 0 0;
+    }
+}
+
+/* sign up page specific media query for less than 748px */
+@media screen and (max-width: 748px) {
+
+    #sign-up-form > h2 {
+        height: 14%;
+    }
+
+    #sign-up-registration {
+        width: 70%;
+    }
+
+    #sign-up-form {
+        height: 800px;
     }
 }
