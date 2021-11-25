@@ -125,6 +125,10 @@ a:hover, .active {
     margin-bottom: 50px;
 }
 
+.intro-heading > a:hover {
+    border-bottom: none;
+}
+
 .intro-heading a {
     padding: 2%;
 }
