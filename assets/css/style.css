@@ -507,6 +507,17 @@ input[type=submit] {
         height: 150px;
         padding: 15px 0 0;
     }
+
+    /* technique pages */
+    .technique-description > h3 {
+        font-size: 150%;
+        text-align: center;
+        padding-bottom: 5%;
+    }
+
+    .technique-description > p {
+        padding-bottom: 3%;
+    }
 }
 
 /* sign up page specific media query for less than 748px */
