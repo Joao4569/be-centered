@@ -459,10 +459,6 @@ input[type=submit] {
         height: 2100px;
     }
 
-    .technique > h2 {
-        
-    }
-
     .technique-media {
         height: 1200px;
     }
@@ -538,6 +534,7 @@ input[type=submit] {
 /* for screen width less than 421px */
 @media screen and (max-width: 421px) {
 
+    /* home page */
     #logo {
         font-size: 300%;
         margin-left: 5%;
@@ -575,6 +572,7 @@ input[type=submit] {
 /* for screen width less than 370px */
 @media screen and (max-width: 370px) {
 
+    /* home page */
     #logo {
         margin-left: 2%;
     }
