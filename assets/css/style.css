@@ -168,7 +168,7 @@ a:hover, .active {
 
 .tile h3 {
     padding: 1% 2%;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
     font-size: 150%;
 }
 
@@ -273,7 +273,7 @@ footer a:hover {
 }
 
 .technique-description h3 {
-    text-decoration: underline;
+   /* text-decoration: underline; */
     font-size: 220%;
 }
 
@@ -567,6 +567,11 @@ input[type=submit] {
 
     .technique > h2 {
         height: 150px;
+    }
+
+    /* sign up page */
+    input[type=text], input[type=email] {
+        width: 18em;
     }
 }
 
