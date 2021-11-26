@@ -59,6 +59,7 @@ The site will be useful by providing users with an introduction to various possi
   - Desktops, large screens: 1025px — 1200px
   - Extra large screens, TV: 1201px and more
 - Used Google dev tools for previewing and testing new concepts for media query design as well as UX aspects.
+- Found bug with loading first image to README.md, file path incorrect.
 
 ### Validator Testing
 
