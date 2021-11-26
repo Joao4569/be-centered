@@ -6,6 +6,40 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Features
 
+### Existing Features
+
+- __Navigation Bar__
+
+  - Featured on all four pages, the fully responsive navigation bar includes links to the Home page, BeBalanced page, BeMindful page and the Sign Up page and is identical in each page to allow for easy navigation. The logo also acts as a link to the home page.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+- __The Landing Page Image__
+
+  - The landing page includes a photograph as its Hero image with a text overlay containing a quote relevant to the theme of BeCentered. 
+  - This section introduces the user to BeCentered with an eye catching animation to grab their attention.
+
+- __The Introduction Section__
+
+  - The introduction section will introduce the user to the three pillars of BeCentered as its heading which also act as internal links to the relevant sections on the landing page. 
+  - This also contains a short paragraph describing the owners vision and the sites purpose to users.
+
+- __The Tile Display Section__
+
+  - The tile display section introduces the user to various techniques of balance and mindfulness by means of images and short introductory paragraphs.
+  - There is also an introductory paragraph and image relevant to users in the greater Zürich area who are interested in participating in social sessions.
+  - Each tile row contains a link to more detailed information on each technique or to sign up for a newsletter.
+
+- __The Group Sessions Section__
+
+  - This section will allow the user to see exactly when the social sessions will happen, where they will be located and if there is a cost involved. 
+  - This section will be updated monthly to keep the user up to date.
+
+- __The Footer__ 
+
+  - The footer section includes links to the relevant social media pages for BeCentered, all links will open on a new tab to allow easy of use for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+
 ## Testing
 
 - Found bug with navigation menu order, it is displaying in reverse order - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
