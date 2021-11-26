@@ -620,6 +620,10 @@ legend {
         width: 15em;
     }
 
+    #sign-up-registration {
+        width: 95%;
+    }
+
     legend {
         font-size: 1em;
     }
