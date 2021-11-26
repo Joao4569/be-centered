@@ -619,6 +619,14 @@ legend {
     input[type=text], input[type=email] {
         width: 15em;
     }
+
+    legend {
+        font-size: 1em;
+    }
+
+    fieldset, input[type=text], input[type=email] {
+        border: 2px solid #000000;
+    }
 }
 
 /* for screen width less than 370px */
