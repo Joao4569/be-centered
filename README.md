@@ -6,6 +6,19 @@ The site will be useful by providing users with an introduction to various possi
 
 ![Responsive Layout](/assets/images/responsive-layout.png)
 
+## Conception
+
+- I made use of [Balsamiq](https://balsamiq.com/) to create a wireframe concept for BeCentered.
+- The main design of Becentered has changed as I progressed through the development towards a finished product.
+![be-centered-wireframe](/assets/wireframe/becentered.png)
+
+![balance-wireframe](/assets/wireframe/balance.png)
+
+![mindfulness-wireframe](/assets/wireframe/mindfulness.png)
+
+![sign-up-wireframe](/assets/wireframe/sign-up.png)
+
+
 ## Features
 
 ### Existing Features
