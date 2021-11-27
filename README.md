@@ -1,8 +1,8 @@
 # BeCentered
 
-BeCentered is a site that hopes to provide useful information for centering one's body and mind. The site is aimed at users who are beginners, that are seeking methods to centre their body and mind, while also providing users in Zürich, Switzerland with an option to be able to get in touch with other like minded individuals.
+BeCentered is a site that hopes to provide useful information for centering one's body and mind to users. The site is aimed at users who are beginners, that are seeking methods to centre their body and mind, while also providing users in Zürich, Switzerland with an option to be able to get in touch with other like minded individuals by means of local social sessions.
 
-The site will be useful by providing users with an introduction to various possible methods of acheiving their goals by means of valuable informational text and videos as well as having a monthly updated schedule for users in the local area to meet up for weekly group sessions. There will also be an option to sign up to a monthly mailing list.
+The site will be useful by providing users with an introduction to various possible methods of acheiving their goals, by means of meaningfull informational text, images and videos as well as having a monthly schedule for users in the local area to meet up for weekly social sessions. There will also be an option to sign up to a monthly newsletter.
 
 ![Responsive Layout](/assets/images/responsive-layout.png)
 
@@ -12,7 +12,7 @@ The site will be useful by providing users with an introduction to various possi
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the fully responsive navigation bar includes links to the Home page, BeBalanced page, BeMindful page and the Sign Up page and is identical in each page to allow for easy navigation. The logo also acts as a link to the home page.
+  - Featured on all four pages, the fully responsive navigation bar includes links to the Home page, Balanced page, Mindfulness page and the Sign Up page and is identical in each page to allow for easy navigation. The logo also acts as a link to the home page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![header](/assets/images/header.png)
@@ -42,6 +42,10 @@ The site will be useful by providing users with an introduction to various possi
 ![tile-display-community](/assets/images/tile-display-community.png)
 
   - Each tile row contains a link to more detailed information on each technique or to sign up for a newsletter.
+
+![discover-balance-link](/assets/images/discover-balance-link.png)
+![discover-mindfulness-link](/assets/images/discover-mindfulness-link.png)
+![sign-up-link](/assets/images/sign-up-link.png)
 
 - __The Group Sessions Section__
 
