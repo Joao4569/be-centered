@@ -61,9 +61,14 @@ The site will be useful by providing users with an introduction to various possi
 
   - BeCentered contains two technique pages, one dedicated to balance techniques and another dedicated to mindfulness techniques.
   - Each page contains two techniques relevant to the page topic, which contain a scrollable detailed description section.
-    - Each detailed description includes long term benfits of the technique as well as an emphasized link at the end for the user to go to the sign up page in order to register for a monthly newsletter relevant to their individual interests.
+    - Each detailed description includes long term benfits of the technique.
+  - Each technique section also has a media section which contains a technique image and an embedded youtube video introduction to the technique.
 
+![technique-page-section-sample](/assets/images/technique-page-section-sample.png)
 
+  - At the end of the detailed technique description there is an emphasized link for the user to go to the sign up page in order to register for a monthly newsletter relevant to their individual interests.
+
+![link-to-sign-up-page](/assets/images/link-to-newsletter-sign-up.png)
 
 ## Testing
 
