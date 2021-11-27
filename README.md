@@ -83,6 +83,12 @@ The site will be useful by providing users with an introduction to various possi
 
 ![link-to-sign-up-page](/assets/images/sign-up-page.png)
 
+### Features Left to Implement
+
+- __Forum Page__
+
+  - In future I would like to add a forum page for a live forum where users can register and take part in live conversations on related topics in order to add and share valuable information on being a more centered individual.
+
 ## Testing
 
 - Found bug with navigation menu order, it is displaying in reverse order - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
