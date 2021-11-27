@@ -167,6 +167,14 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Deployment
 
+- BeCentered was deployed to GitHub pages, the steps were as follows:
+  - While in the GitHub repository, select the settings tab.
+  - Then select the Pages tab from the new menu to the left of the viewport.
+  - From the source section drop down menu, select Main branch.
+  - Once the main branch has been selected, the page will automatically refresh with a detailed ribbon display to indicate the successful deployment.
+
+Here is the live link [BeCentered](https://joao4569.github.io/be-centered/)
+
 ## Credits
 
 ### Content
