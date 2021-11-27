@@ -97,6 +97,7 @@ The site will be useful by providing users with an introduction to various possi
 - Found solution for how to make an image fit it's parent element while retaining it's aspect ratio on [w3schools](https://www.w3schools.com/css/css3_object-fit.asp).
 - Made use of background colors for testing of container structure, function and layout.
 - Tested all internal links - All are functioning as intended.
+- Tested all external links - All are functioning as intended.
 - Tested all embedded videos - All are functioning as intended.
 - Found an issue with technique pages, technique description divs were overflowing content - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
 - Sourced most common media breakpoint widths on [www.freecodecamp.org](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/.)
@@ -105,7 +106,7 @@ The site will be useful by providing users with an introduction to various possi
   - Small screens, laptops: 769px — 1024px
   - Desktops, large screens: 1025px — 1200px
   - Extra large screens, TV: 1201px and more
-- Used Google dev tools for previewing and testing new concepts for media query design as well as UX aspects.
+- Made use of Chrome developer tools for previewing and testing new designs for media query design as well as UX aspects.
 - Found bug with loading first image to README.md, file path incorrect - **Resolved**, found error in file path.
 - Found bug with the group sessions readme image link - **Resolved** found error in file path.
 
