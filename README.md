@@ -172,14 +172,14 @@ The site will be useful by providing users with an introduction to various possi
 ### Content
 
 - The font pairing chosen was taken from [Font Pair](https://www.fontpair.co/all).
-- Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
+- Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html) modified for this application.
 - Code for Hero image overlay text was taken from "Love Running" walkthrough project and modified for this application.
 - Overlay quote on Hero image taken from [Quotefancy.com](https://quotefancy.com/quote/1488144/Rajneesh-Enjoyment-is-just-the-sound-of-being-centered).
 - Introduction text sourced from [bodymindlife.com](https://www.bodymindlife.com/about) on their "Our Purpose" section.
 - Tile display and technique pages text content sourced from [bodymind-training.ch](https://www.bodymind-training.ch/techniken/mind-balancing/)
-- Method for coding group sessions timetable on home page taken from "Love Running" walkthrough project.
+- Method for coding group sessions timetable on home page taken from "Love Running" walkthrough project modified for this application..
 - Social media icons sourced from [Font Awesome](https://fontawesome.com).
-- Code for arranging social media icons in footer taken from "Love Running" walkthrough project.
+- Code for arranging social media icons in footer taken from "Love Running" walkthrough project modified for this application..
 - Media queries for home page at a screen width less than 769px was taken from "Love Running" walkthrough project and modified accordingly.
 
 ### Media
