@@ -70,6 +70,13 @@ The site will be useful by providing users with an introduction to various possi
 
 ![link-to-sign-up-page](/assets/images/link-to-newsletter-sign-up.png)
 
+- __The Sign Up Page__
+
+  - This page allows the user to register for a monthly newsletter.
+  - The user can personalise the information that they sign up for by means of relevant checkboxes.
+
+![link-to-sign-up-page](/assets/images/sign-up-page.png)
+
 ## Testing
 
 - Found bug with navigation menu order, it is displaying in reverse order - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
