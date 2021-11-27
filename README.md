@@ -33,15 +33,16 @@ The site will be useful by providing users with an introduction to various possi
 
 - __The Tile Display Section__
 
-  - The tile display section introduces the user to various techniques of balance and mindfulness by means of images and short introductory paragraphs.
+  - The tile display section introduces the user to various techniques of balance and mindfulness by means of images and short introductory paragraphs for each technique.
 
 ![tile-display-techniques](/assets/images/tile-display-techniques.png)
 
-  - There is also an introductory paragraph and image relevant to users in the greater Zürich area who are interested in participating in social sessions.
+  - There is also a tile row relevant to users in the greater Zürich area who are interested in participating in social sessions.
 
 ![tile-display-community](/assets/images/tile-display-community.png)
 
-  - Each tile row contains a link to more detailed information on each technique or to sign up for a newsletter.
+  - Each tile row contains a link to more detailed information for each technique topic or to sign up for a monthly newsletter.
+  - This is useful to the user as it makes it easier to navigate to the relevant page of interest.
 
 ![discover-balance-link](/assets/images/discover-balance-link.png)
 ![discover-mindfulness-link](/assets/images/discover-mindfulness-link.png)
@@ -50,7 +51,7 @@ The site will be useful by providing users with an introduction to various possi
 - __The Group Sessions Section__
 
   - This section will allow the user to see exactly when the social sessions will happen, where they will be located and if there is a cost involved. 
-  - This section will be updated monthly to keep the user up to date.
+  - This section will be updated monthly to keep the information relevant.
 
 ![group-sessions](/assets/images/group-sessions.png)
 
