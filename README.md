@@ -163,6 +163,9 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Unfixed Bugs
 
+- The only issue that I have with Becentered is that I feel some containers (for example the technique page headings, descriptions and sign up page heading) are not fully responsive in relation to their content and that a lot of manual adjustments had to be made to assist their responsiveness concerning appearance over the various media queries.
+- I started doing some research and I was looking into the issue for this project but unfortunately have not found a proper solution to the problem.
+
 ## Deployment
 
 - BeCentered was deployed to GitHub pages, the steps were as follows:
