@@ -50,12 +50,19 @@ The site will be useful by providing users with an introduction to various possi
 
 ![group-sessions](/assets/images/group-sessions.png)
 
-- __The Footer__ 
+- __The Footer__
 
   - The footer section includes links to the relevant social media pages for BeCentered, all links will open on a new tab to allow easy of use for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![footer](/assets/images/footer.png)
+
+- __The Technique Pages__
+
+  - BeCentered contains two technique pages, one dedicated to balance techniques and another dedicated to mindfulness techniques.
+  - Each page contains two techniques relevant to the page topic, which contain a scrollable detailed description section.
+    - Each detailed description includes long term benfits of the technique as well as an emphasized link at the end for the user to go to the sign up page in order to register for a monthly newsletter relevant to their individual interests.
+
 
 
 ## Testing
