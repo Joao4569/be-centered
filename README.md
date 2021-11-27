@@ -48,7 +48,7 @@ The site will be useful by providing users with an introduction to various possi
   - This section will allow the user to see exactly when the social sessions will happen, where they will be located and if there is a cost involved. 
   - This section will be updated monthly to keep the user up to date.
 
-![group-sessions](/assets/images/tile-display-group-sessions.png)
+![group-sessions](/assets/images/group-sessions.png)
 
 - __The Footer__ 
 
@@ -76,6 +76,7 @@ The site will be useful by providing users with an introduction to various possi
   - Extra large screens, TV: 1201px and more
 - Used Google dev tools for previewing and testing new concepts for media query design as well as UX aspects.
 - Found bug with loading first image to README.md, file path incorrect - **Resolved**, found error in file path.
+- Found bug with the group sessions readme image link - **Resolved** found error in file path.
 
 ### Validator Testing
 
