@@ -161,8 +161,6 @@ The site will be useful by providing users with an introduction to various possi
 - Final validator test for style.css results:
   - file validates as CSS level 3 + SVG
 
-
-
 ### Unfixed Bugs
 
 ## Deployment
@@ -174,6 +172,10 @@ The site will be useful by providing users with an introduction to various possi
   - Once the main branch has been selected, the page will automatically refresh with a detailed ribbon display to indicate the successful deployment.
 
 Here is the live link [BeCentered](https://joao4569.github.io/be-centered/)
+
+## Deploymnet Testing
+
+- Tested all internal and external links, form validation as well as responsivenes of Becentered on deployed site and all are working as intended.
 
 ## Credits
 
