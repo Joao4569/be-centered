@@ -118,6 +118,8 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Validator Testing
 
+- Made use of official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css) and official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) for all validator testing.
+
 - Initial validator test for index.html results:
   - 3 Bad Value errors for having spaces in image names.
     - **Resolved** by re-naming images accordingly.
