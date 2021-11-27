@@ -91,15 +91,19 @@ The site will be useful by providing users with an introduction to various possi
 
 ## Testing
 
-- Found bug with navigation menu order, it is displaying in reverse order - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
-- Found that the Hero image did not cover entire screen width - **Resolved** by using original image size instead of re-sized image.
-- Found that the tile display for the method introductions did not display as planned - **Resolved** by adding additional div elements and floating their children as needed.
+- Found bug with navigation menu order, it is displaying in reverse order.
+  - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
+- Found that the Hero image did not cover entire screen width.
+  - **Resolved** by using original image size instead of re-sized image.
+- Found that the tile display for the method introductions did not display as planned.
+  - **Resolved** by adding additional div elements and floating their children as needed.
 - Found solution for how to make an image fit it's parent element while retaining it's aspect ratio on [w3schools](https://www.w3schools.com/css/css3_object-fit.asp).
 - Made use of background colors for testing of container structure, function and layout.
 - Tested all internal links - All are functioning as intended.
 - Tested all external links - All are functioning as intended.
 - Tested all embedded videos - All are functioning as intended.
-- Found an issue with technique pages, technique description divs were overflowing content - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
+- Found an issue with technique pages, technique description divs were overflowing content.
+  - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
 - Sourced most common media breakpoint widths on [www.freecodecamp.org](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/.)
   - Mobile devices: 320px — 480px
   - iPads, Tablets: 481px — 768px
@@ -107,25 +111,34 @@ The site will be useful by providing users with an introduction to various possi
   - Desktops, large screens: 1025px — 1200px
   - Extra large screens, TV: 1201px and more
 - Made use of Chrome developer tools for previewing and testing new designs for media query design as well as UX aspects.
-- Found bug with loading first image to README.md, file path incorrect - **Resolved**, found error in file path.
-- Found bug with the group sessions readme image link - **Resolved** found error in file path.
+- Found bug with loading first image to README.md, file path was incorrect.
+  - **Resolved**, found error in file path.
+- Found bug with the group sessions readme image link.
+  - **Resolved** found error in file path.
 
 ### Validator Testing
 
 - Initial validator test for index.html results:
-  - 3 Bad Value errors for having spaces in image names - **Resolved** by re-naming images accordingly.
-  - 1 Warning for using an H1 tag incorrectly - **Resolved** by replacing it with an unordered list.
+  - 3 Bad Value errors for having spaces in image names.
+    - **Resolved** by re-naming images accordingly.
+  - 1 Warning for using an H1 tag incorrectly.
+    - **Resolved** by replacing it with an unordered list.
 
 - Initial validator test for be-balanced.html results:
-  - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%" - **Resolved** by removing attributes and styling with CSS.
-  - Found 2 warnings for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
+  - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%".
+    - **Resolved** by removing attributes and styling with CSS.
+  - Found 2 warnings for the use of H1 tags.
+    - **Resolved** by replacing with H2 tags and styling accordingly.
 
 - Initial validator test for be-mindful.html results:
-  - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%" - **Resolved** by removing attributes and styling with CSS.
-  - Found 2 warnings for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
+  - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%".
+    - **Resolved** by removing attributes and styling with CSS.
+  - Found 2 warnings for the use of H1 tags.
+    - **Resolved** by replacing with H2 tags and styling accordingly.
 
 - Initial validator test for sign-up.html results:
-  - Found 1 warning for the use of H1 tags - **Resolved** by replacing with H2 tags and styling accordingly.
+  - Found 1 warning for the use of H1 tags.
+    - **Resolved** by replacing with H2 tags and styling accordingly.
 
 ### Unfixed Bugs
 
