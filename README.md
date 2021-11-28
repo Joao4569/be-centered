@@ -85,7 +85,7 @@ The site will be useful by providing users with an introduction to various possi
 - __The Group Sessions Section__
 
   - This section will allow the user to see exactly when the social sessions will happen, where they will be located and if there is a cost involved. 
-  - This section will be updated monthly to keep the information relevant and useful.
+  - This section will be updated monthly to keep the information relevant and useful to users.
 
 ![group-sessions](/assets/images/group-sessions.png)
 
