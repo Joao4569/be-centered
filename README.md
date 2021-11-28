@@ -10,11 +10,28 @@ The site will be useful by providing users with an introduction to various possi
 
 - I made use of [Balsamiq](https://balsamiq.com/) to create a wireframe concept for BeCentered.
 - The main design of Becentered has changed as I progressed through the development towards a finished product.
+
+### Home Page
+
+- I decided that I preffered not having the introduction heading just say welcome and instead used the three pillars of Becentered as the heading, namely Balance, Mindfulness and Community. I also gave them the function of being internal links to the relevant sections in the tile display section].
+- My original design only had the technique introductions displayed as tiles but after discussing my design with my mentor, he suggested adding the commnunity section to the tile dispaly as well, in order to give the page a more uniformed design. I found his input was correct.
+- He also suggested having my overlay text on the hero image, positioned in the centre as in the wireframe design, but I decided that it would suite the chosen hero image better if it was placed on the right of the screen. He supported my decision once we had our mid-point consultation and I presented it to him.
+- My final design does not include the heading for the footer section, I preffered the design without it and made it uniform throughout all the pages.
+
 ![be-centered-wireframe](/assets/wireframe/becentered.png)
+
+### Technique Pages
+
+- In the wireframe, each page had its own logo but I decided against it as I preffered making use of unifrom logo across all the pages.
+- My mentor and I were happy with the structure and design of the technique pages throughout the process and therefore left them unchanged in the final product.
 
 ![balance-wireframe](/assets/wireframe/balance.png)
 
 ![mindfulness-wireframe](/assets/wireframe/mindfulness.png)
+
+### Sign Up Page
+
+- The BeCentered sign up page has remainded largely unchanged, besides for how I chose to design the fieldsets on the form in the final product.
 
 ![sign-up-wireframe](/assets/wireframe/sign-up.png)
 
