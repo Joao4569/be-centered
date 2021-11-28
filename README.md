@@ -208,8 +208,8 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Unfixed Bugs
 
-- The only issue that I have with Becentered is that I feel some containers (for example the technique page headings, detailed descriptions and sign up page heading) are not fully responsive in relation to their content and that a lot of manual adjustments had to be made to assist their responsiveness concerning appearance over the various media queries.
-- I started doing some research and I was looking into the issue for this project but unfortunately have not found a proper solution to the problem by the time of submission.
+- The only issues that I have found with Becentered is that I feel some containers (for example the technique page headings, detailed technique descriptions, sign up page heading, thank you page heading and footer) are not fully responsive in relation to their content and that a lot of manual adjustments had to be made to assist their responsiveness concerning appearance over the various media queries.
+- I started doing some research and I was looking into the issue for this project and think that by using flex boxes I could possibly solve this issue but as I only discovered this possible solution barely 48 hours prior to the final submission date, I decided it unwise to try and restructure my code on that scale so close to the submission date.
 
 ## Deployment
 
