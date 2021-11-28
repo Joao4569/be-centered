@@ -360,6 +360,12 @@ legend {
     text-align: center;
 }
 
+/* registration page */
+
+#thank-you {
+    height: 150px;
+}
+
 /* media queries */
 
 
