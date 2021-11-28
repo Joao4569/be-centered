@@ -1,0 +1,675 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Poppins:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+    font-weight: 800;
+    color: #000000;
+}
+
+h1, h2, h3 {
+    font-family: "open sans condensed", sans-serif;
+    letter-spacing: 2px;
+}
+
+/* logo */
+
+#logo {
+    font-size: 400%;
+    margin-left: 30px;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+/* navigation menu */
+
+#menu {
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 100px;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover, .active {
+    border-bottom: 2px solid;
+}
+
+/* hero image and text overlay */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.jpg") no-repeat center center;
+
+    /* zoom animation  for hero image taken from the love running walkthrough project */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/*  create level zoom for hero image taken from the love running walkthrough project */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
+/* base structure for text overlay taken from the love running walkthrough project*/
+#text-overlay {
+    color: #fff;
+    font-size: 120%;
+
+    width: 400px;
+    height: 120px;
+
+    background-color: rgba(0, 0, 0, .7);
+
+    bottom: 30px;
+    right: 100px;
+
+    position: absolute;
+}
+
+#text-overlay h3 {
+    float: right;
+    padding-right: 10px;
+}
+
+#text-overlay h2 {
+    padding-left: 10px;
+}
+
+/* introduction heading and text */
+
+.introduction {
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+.intro-heading {
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 50px;
+}
+
+.intro-heading > a:hover {
+    border-bottom: none;
+}
+
+.intro-heading a {
+    padding: 2%;
+}
+
+.introduction p {
+    text-align: center;
+    margin: 50px 5% 0;
+    font-size: 120%;
+    font-weight: 1000;
+}
+
+/* tile display section */
+
+#tile-display {
+    height: 1350px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 300px;
+}
+
+.tile-row {
+    height: 33%;
+    width: 100%;
+}
+
+.tile {
+    height: 100%;
+    width: 50%;
+}
+
+.tile h2 { 
+    text-align: center;
+    padding: 2.5% 0 5%;
+    font-size: 220%;
+}
+
+.tile h3 {
+    padding: 1% 2%;
+    font-size: 150%;
+}
+
+.tile p {
+    padding: 1% 2%;
+}
+
+.link {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.link > a, input[type=submit] {
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #000000;
+    border: 5px solid #000000;
+    padding: 3px 6px;
+    font-weight: bolder;
+}
+
+.link a:hover, input:hover {
+    border-bottom: none;
+    border-color: #fff;
+
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.tile-image > img {
+    object-fit: cover;
+}
+
+/* group sessions */
+
+#group-sessions div {
+    width: 20%;
+    height: 180px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #fff;
+}
+
+#group-sessions h3 {
+    margin-bottom: 2px;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    clear: both;
+}
+
+footer > ul {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 5%;
+}
+
+footer a:hover {
+    border-bottom: none;
+}
+
+/* technique pages */
+
+.technique {
+    clear: both;
+    width: 90%;
+    height: 1050px;
+    margin: 0 auto;
+    border-top: 2px solid #000000;
+}
+
+.technique-description, .technique-media {
+    width: 50%;
+    height: 83%;
+}
+
+.technique-description h3,p {
+    padding: 0 4% 2% 1%;
+}
+
+.technique-description {
+    overflow: auto;
+}
+
+.technique-description h3 {
+    font-size: 220%;
+}
+
+.technique-image, .technique-video {
+    width: auto;
+    height: 42.5%;
+    padding: 5% 2.5% 2.5% 5%;
+    
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.technique-description ul {
+    padding: 0 5%;
+}
+
+.technique-description li {
+    padding-bottom: 2%;
+}
+
+/* sign up page */
+
+.heading-form-register {
+    clear: both;
+    width: 90%;
+    height: 850px;
+    margin: 0 auto;
+    border-top: 2px solid #000000;
+}
+
+#sign-up-registration {
+    width: 35%;
+    margin: 0 auto;
+}
+
+/* added technique styling to sign up styling in order to eliminate duplicate code*/
+.heading-form-register h2, .technique > h2 {
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    height: 7%;
+}
+
+fieldset, input[type=text], input[type=email] {
+    border: 4px solid #000000;
+}
+
+input[type=text], input[type=email] {
+    height: 2em;
+    width: 25em;
+    margin: 2% auto;
+}
+
+.input-field {
+    margin: 2%;
+}
+
+.input-field > h4 {
+    text-decoration: underline;
+    margin-bottom: 2%;
+}
+
+.last-field {
+    margin-bottom: 4%;
+}
+
+legend {
+    margin: 0 2%;
+    font-size: 2em;
+}
+
+.right-side {
+    margin-left: 4%;
+}
+
+input[type=submit] {
+	margin-top: 20px;
+    font-family: "poppins", sans-serif;
+    font-weight: 800;
+}
+
+legend {
+    text-align: center;
+}
+
+/* media queries */
+
+
+/* for screen width less than 1200px */
+@media screen and (max-width: 1200px) {
+
+    /* home page */
+    #tile-display {
+        margin: 0 5%;
+        width: auto;
+    }
+
+    #group-sessions div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 15px 0 0;
+    }
+
+    /* technique pages */
+    .technique-image, .technique-video {
+        padding: 2.5% 0 1.25% 2.5%;
+    }
+
+    .technique {
+        width: 95%;
+    }
+
+    .technique-media {
+        margin: 0;
+    }
+
+    img {
+        object-fit: cover;
+    }
+
+    /* sign up form */
+    input[type=text], input[type=email] {
+        width: 20em;
+    }
+
+    #sign-up-form {
+        height: 800px;
+    }
+
+     #sign-up-form h2 {
+        font-size: 300%;
+    }
+}
+
+/* for screen width less than 1025px */
+@media screen and (max-width: 1025px) {
+
+    /* home page */
+    #group-sessions div {
+        padding: 10px 0 0 1px;
+    }
+
+    img {
+        object-fit: contain;
+    }
+
+    #menu li {
+        margin-right: 10px;
+    }
+
+    .introduction {
+        margin-top: 150px;
+        margin-bottom: 150px;
+    }
+
+    .tile-text {
+        clear: both;
+        float: left;
+    }
+
+    .tile {
+        width: 100%;
+        height: 50%;
+    }
+
+    .tile-image {
+        object-fit: contain;
+    }
+
+    #tile-display {
+        height: 3000px;
+        margin: 0;
+    }
+
+    /* technique pages */
+    .technique-description {
+        margin: 0;
+        height: 700px;
+    }
+
+    .technique-description > h3 {
+        font-size: 180%;
+    }
+
+    .technique > h2 {
+        padding-top: 50px;
+        margin-bottom: 50px;
+        font-size: 350%;
+        height: 100px;
+    }
+
+    .technique-description, .technique-media {
+        width: 100%;
+    }
+
+    .technique-media {
+        clear: both;
+    }
+
+    .technique {
+        overflow: hidden;
+        height: 2100px;
+    }
+
+    .technique-media {
+        height: 1200px;
+    }
+
+    .technique-image {
+        padding: 25px 0 25px 0;
+    }
+
+    .technique-video {
+        padding: 25px 0 10px 0;
+    }
+
+    /* sign up page and registration page */
+    .heading-form-register h2 {
+        font-size: 300%;
+    }
+
+    #sign-up-registration {
+        width: 45%;
+    }
+}
+
+/* for screen width less than 769px */
+@media screen and (max-width: 769px) {
+
+    /* home page */
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #text-overlay {
+        left: 0;
+    }
+
+    /* technique pages */
+    .technique-description > h3 {
+        font-size: 150%;
+        padding-bottom: 5%;
+    }
+
+    .technique-description > p {
+        padding-bottom: 3%;
+    }
+
+    .technique {
+        width: 80%;
+    }
+
+     /* sign up page and registration page */
+     .heading-form-register h2 {
+        font-size: 200%;
+    }
+}
+
+/* sign up page specific responsiveness media query for less than 748px */
+@media screen and (max-width: 748px) {
+
+    .heading-form-register > h2 {
+        height: 14%;
+    }
+
+    #sign-up-registration {
+        width: 70%;
+    }
+
+    .heading-form-register {
+        height: 800px;
+    }
+}
+
+/* for screen width less than 680px */
+@media screen and (max-width: 680px) {
+
+    /* technique pages */
+    .technique {
+        height: 1700px;
+    }
+
+    .technique-media {
+        height: 800px;
+    }
+
+    .technique > h2 {
+        height: 150px;
+    }
+
+    /* sign up page */
+    input[type=text], input[type=email] {
+        width: 18em;
+    }
+}
+
+/* for screen width less than 421px */
+@media screen and (max-width: 421px) {
+
+    /* home page */
+    #logo {
+        font-size: 300%;
+        margin-left: 5%;
+    }
+
+    #menu {
+        margin-left: 5%;
+    }
+
+    #menu li {
+        font-size: 90%;
+        margin-right: 8px;
+    }
+
+    #text-overlay {
+        font-size: 80%;
+        width: 300px;
+        height: 80px;
+    }
+
+    /* technique pages */
+    .technique > h2 {
+        height: 70px;
+        font-size: 280%;
+    }
+
+    .technique-description > h3 {
+        font-size: 120%;
+    }
+
+    .technique-description > p, .technique-description li {
+        font-size: 95%;
+    }
+
+    /* sign up page */
+    input[type=text], input[type=email] {
+        width: 15em;
+    }
+
+    #sign-up-registration {
+        width: 95%;
+    }
+
+    legend {
+        font-size: 1em;
+    }
+
+    fieldset, input[type=text], input[type=email] {
+        border: 2px solid #000000;
+    }
+}
+
+/* for screen width less than 370px */
+@media screen and (max-width: 370px) {
+
+    /* home page */
+    #logo {
+        margin-left: 2%;
+    }
+    
+    #menu {
+        margin-left: 2%;
+        letter-spacing: 0;
+    }
+
+    .intro-heading {
+        font-size: 300%;
+        letter-spacing: 1px;
+    }
+    .introduction p {
+        font-size: 100%;
+    }
+
+    .tile-image {
+        height: 400px;
+    }
+
+    /* technique pages */
+    .technique > h2 {
+        height: 50px;
+        font-size: 200%;
+    }
+
+    /* footer */
+    footer li {
+        font-size: 80%;
+    }
+
+    /* sign up page */
+    input[type=text], input[type=email] {
+        width: 13em;
+    }
+}
