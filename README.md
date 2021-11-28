@@ -13,7 +13,7 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Home Page
 
-- I decided that I preffered not having the introduction heading just say welcome and instead used the three pillars of Becentered as the heading, namely Balance, Mindfulness and Community. I also gave them the function of being internal links to the relevant sections in the tile display section].
+- I decided that I preffered not having the introduction heading just say welcome and instead used the three pillars of Becentered as the heading, namely Balance, Mindfulness and Community. I also gave them the function of being internal links to the relevant sections in the tile display section.
 - My original design only had the technique introductions displayed as tiles but after discussing my design with my mentor, he suggested adding the commnunity section to the tile dispaly as well, in order to give the page a more uniformed design. I found his input was correct.
 - He also suggested having my overlay text on the hero image, positioned in the centre as in the wireframe design, but I decided that it would suite the chosen hero image better if it was placed on the right of the screen. He supported my decision once we had our mid-point consultation and I presented it to him.
 - My final design does not include the heading for the footer section, I preffered the design without it and made it uniform throughout all the pages.
@@ -22,7 +22,7 @@ The site will be useful by providing users with an introduction to various possi
 
 ### Technique Pages
 
-- In the wireframe, each page had its own logo but I decided against it as I preffered making use of unifrom logo across all the pages.
+- In the wireframe, each page had its own logo but I decided against it as I preffered making use of a unifrom logo across all the pages.
 - My mentor and I were happy with the structure and design of the technique pages throughout the process and therefore left them unchanged in the final product.
 
 ![balance-wireframe](/assets/wireframe/balance.png)
@@ -88,7 +88,7 @@ The site will be useful by providing users with an introduction to various possi
 
 - __The Footer__
 
-  - The footer section includes links to the relevant social media pages for BeCentered, all links will open on a new tab to allow easy of use for the user. 
+  - The footer section includes links to social media pages for BeCentered, all links will open on a new tab to allow easy use for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media for regular useful information and discussions.
 
 ![footer](/assets/images/footer.png)
@@ -122,56 +122,57 @@ The site will be useful by providing users with an introduction to various possi
 ## Testing
 
 - Found bug with navigation menu order, it is displaying in reverse order.
-  - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html).
+  - **Resolved** by researching information on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html) and applying it to my design.
 - Found that the Hero image did not cover entire screen width.
-  - **Resolved** by using original image size instead of re-sized image.
-- Found that the tile display for the method introductions did not display as planned.
+  - **Resolved** by using original image size instead of a re-sized image.
+- Found that the tile display on the home page for the method introductions did not display as planned.
   - **Resolved** by adding additional div elements and floating their children as needed.
 - Found solution for how to make an image fit it's parent element while retaining it's aspect ratio on [w3schools](https://www.w3schools.com/css/css3_object-fit.asp).
 - Made use of background colors for testing of container structure, function and layout.
 - Tested all internal links - All are functioning as intended.
 - Tested all external links - All are functioning as intended.
 - Tested all embedded videos - All are functioning as intended.
-- Found an issue with technique pages, technique description divs were overflowing content.
-  - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling.
-- Sourced most common media breakpoint widths on [www.freecodecamp.org](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/.)
+- Found an issue with the technique pages, the technique description conatiners were overflowing content.
+  - **Resolved** by setting overflow to auto so that if the text needs to overflow then the content is still fully visible by means of scrolling and it will keep the design uniform across the two pages.
+- Sourced most common media breakpoint widths on [www.freecodecamp.org](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/.) and made the site responsive down to minimum width of 320 pixels.
   - Mobile devices: 320px — 480px
   - iPads, Tablets: 481px — 768px
   - Small screens, laptops: 769px — 1024px
   - Desktops, large screens: 1025px — 1200px
   - Extra large screens, TV: 1201px and more
-- Made use of Chrome developer tools for previewing and testing new designs for media query design as well as UX aspects.
+- Made use of Chrome developer tools for previewing and testing new designs for media queries as well as UX aspects.
 - Found bug with loading first image to README.md, file path was incorrect.
   - **Resolved**, found error in file path.
 - Found bug with the group sessions readme image link.
   - **Resolved** found error in file path.
+- Tested all external links in the Readme.md file and all are working as intended.
 
 ### Validator Testing
 
-- Made use of official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) for CSS file and official [W3C validator](https://validator.w3.org/) for all HTML file testing.
+- Made use of the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) for the CSS file and the official [W3C validator](https://validator.w3.org/) for all HTML file testing.
 
 #### Initial Validator Tests
 - Initial validator test for index.html results:
   - 3 Bad Value errors for having spaces in image names.
     - **Resolved** by re-naming images accordingly.
   - 1 Warning for using an H1 tag incorrectly.
-    - **Resolved** by replacing it with an unordered list.
+    - **Resolved** by replacing it with an unordered list for logical semantic structure.
 
 - Initial validator test for balance.html results:
   - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%".
     - **Resolved** by removing attributes and styling with CSS.
   - Found 2 warnings for the use of H1 tags.
-    - **Resolved** by replacing with H2 tags and styling accordingly.
+    - **Resolved** by replacing with H2 tags for semantic structure.
 
 - Initial validator test for minfulness.html results:
   - Found 4 errors referring to usage of height and width attributes in iframe tags with values of "100%".
     - **Resolved** by removing attributes and styling with CSS.
   - Found 2 warnings for the use of H1 tags.
-    - **Resolved** by replacing with H2 tags and styling accordingly.
+    - **Resolved** by replacing with H2 tags for semantic.
 
 - Initial validator test for sign-up.html results:
   - Found 1 warning for the use of H1 tags.
-    - **Resolved** by replacing with H2 tags and styling accordingly.
+    - **Resolved** by replacing with H2 tags for semantic structure.
 
 #### Final Validator tests
 
@@ -191,10 +192,12 @@ The site will be useful by providing users with an introduction to various possi
 - Final validator test for style.css results:
   - file validates as CSS level 3 + SVG
 
+- All the pages of BeCentered have passed their validator testing at the time of submission.
+
 ### Unfixed Bugs
 
-- The only issue that I have with Becentered is that I feel some containers (for example the technique page headings, descriptions and sign up page heading) are not fully responsive in relation to their content and that a lot of manual adjustments had to be made to assist their responsiveness concerning appearance over the various media queries.
-- I started doing some research and I was looking into the issue for this project but unfortunately have not found a proper solution to the problem.
+- The only issue that I have with Becentered is that I feel some containers (for example the technique page headings, detailed descriptions and sign up page heading) are not fully responsive in relation to their content and that a lot of manual adjustments had to be made to assist their responsiveness concerning appearance over the various media queries.
+- I started doing some research and I was looking into the issue for this project but unfortunately have not found a proper solution to the problem by the time of submission.
 
 ## Deployment
 
@@ -212,8 +215,11 @@ Here is the live link [BeCentered](https://joao4569.github.io/be-centered/)
 
 ## Credits
 
+- First and foremost I would like to thank my mentor Anthony for his valuable input.
+
 ### Content
 
+- Commit comment conventions were taken from [Cheatography](https://cheatography.com/albelop/cheat-sheets/conventional-commits/), I do not totally understand all the vernacular but tried my best to implement it as best I could.
 - The font pairing chosen was taken from [Font Pair](https://www.fontpair.co/all).
 - Navigation menu reverse order sequence solution found on [Web Developer Diary](http://nambiara.blogspot.com/2010/10/float-right-without-changing-order.html) modified for this application.
 - Code for Hero image overlay text was taken from "Love Running" walkthrough project and modified for this application.
@@ -230,7 +236,7 @@ Here is the live link [BeCentered](https://joao4569.github.io/be-centered/)
 - All images sourced from [Pexels](https://www.pexels.com).
 - Hero image sizing suggestions sourced on [Hubspot](https://blog.hubspot.com/marketing/hero-image).
 - Information for optimizing images for web design found on [jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/).
-- All images resized using [TinyPNG](https://tinypng.com/).
+- All images on Becentered were resized using [TinyPNG](https://tinypng.com/).
 - Code for Hero image zoom animation taken directly from "Love Running" walkthrough project.
 - Method for embedding Youtube video learnt on [GeeksforGeeks](https://www.geeksforgeeks.org/html-adding-youtube-videos/).
 - Learn about object-fit CSS property on [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit).
