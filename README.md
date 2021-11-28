@@ -35,6 +35,9 @@ The site will be useful by providing users with an introduction to various possi
 
 ![sign-up-wireframe](/assets/wireframe/sign-up.png)
 
+### Thank You Page
+
+- The thank you page was not part of my original design.
 
 ## Features
 
