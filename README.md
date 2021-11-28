@@ -198,6 +198,9 @@ The site will be useful by providing users with an introduction to various possi
 - Final validator test for style.css results:
   - file validates as CSS level 3 + SVG
 
+- Final validator test for thank-you.html results:
+  - No errors or warnings found.
+
 - All the pages of BeCentered have passed their validator testing at the time of submission.
 
 ### Unfixed Bugs
