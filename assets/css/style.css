@@ -71,7 +71,7 @@ a:hover, .active {
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center;
 
-    /* zoom animation  for hero image */
+    /* zoom animation  for hero image taken from the love running walkthrough project */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
