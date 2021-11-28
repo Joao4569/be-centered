@@ -221,7 +221,7 @@ The site will be useful by providing users with an introduction to various possi
 
 Here is the live link [BeCentered](https://joao4569.github.io/be-centered/)
 
-## Deploymnet Testing
+## Deployment Testing
 
 - Tested all internal and external links, form validation as well as responsivenes of Becentered on deployed site and all are working as intended.
 
