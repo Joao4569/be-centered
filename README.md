@@ -113,6 +113,12 @@ The site will be useful by providing users with an introduction to various possi
 
 ![link-to-sign-up-page](/assets/images/sign-up-page.png)
 
+- __Thank You Page__
+
+- This page thanks the user for registering to the newsletter.
+
+![thank-you](/assets/images/thank-you.png)
+
 ### Features Left to Implement
 
 - __Forum Page__
