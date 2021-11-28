@@ -155,6 +155,8 @@ The site will be useful by providing users with an introduction to various possi
 - Found bug with the group sessions readme image link.
   - **Resolved** found error in file path.
 - Tested all external links in the Readme.md file and all are working as intended.
+- Found bug with input elements that have types of text and email while testing responsiveness.
+  - **Resolved** by adjust sizing of elements at media query with width less than 680 pixels.
 
 ### Validator Testing
 
